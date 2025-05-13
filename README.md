@@ -8,20 +8,22 @@
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kmpzin&layout=compact&hide_border=true&title_color=6C00DE&text_color=1E90E1&bg_color=0d1117" />
 </div>
 
- ### Studying in this moment:
-<div style="display: inline_block"><br>
-  <img align="center" alt="TypeScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
-  <img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg">
-  <img align="center" alt="Laravel" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original.svg">
-  <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+### Skills:
+
+<div align="center" >
+  <img alt="staks" src="https://skillicons.dev/icons?i=html,css,nodejs,javascript,typescript,php,git,github,tailwind,styledcomponents,bootstrap,sass,materialui,react,laravel,vue,next,vscode,phpstorm,vercel,vite,postman,postgres,figma,linux,docker">
 </div>
   
 ### Contatc: 
 <div> 
-  <a href="https://www.instagram.com/kmpzin/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-   <a href="https://www.linkedin.com/in/kempfer1/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="https://www.instagram.com/vkemp_/" target="_blank"><img src="https://skillicons.dev/icons?i=instagram" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/kempfer1/" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" target="_blank"></a>
+  <a href="https://discord.gg/pWH4VACc" target="_blank"><img src="https://skillicons.dev/icons?i=discord" target="_blank"></a>
+  <a href="https://www.x.com/shrky_" target="_blank"><img src="https://skillicons.dev/icons?i=twitter" target="_blank"></a>
+
+##
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=kmpzin&row=1&column=6&theme=dracula&margin-w=15&margin-h=15" />
+</div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=6C00DE&height=120&section=footer"/>
-
